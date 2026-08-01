@@ -1,16 +1,14 @@
 # Heart Disease Prediction REST API & Cloud Deployment
 
-**Author:** Nigam Prasad Lenka
 
-**Registration Number:** 23BCE11432
-
-**Application Number:** IN26011682
-
-**Batch Number:** 1A
-
-**Email ID:** nigam.23bce11432@vitbhopal.ac.in
-
-**Render Deployment URL:** [https://mponline-assignment-10-zqlt.onrender.com](https://mponline-assignment-10-zqlt.onrender.com)
+| **Field** | **Details** |
+|:----------|:------------|
+| **Author** | Nigam Prasad Lenka |
+| **Registration Number** | 23BCE11432 |
+| **Application Number** | IN26011682 |
+| **Batch Number** | 1A |
+| **Email ID** | nigam.23bce11432@vitbhopal.ac.in |
+| **Render Deployment URL** | https://mponline-assignment-10-zqlt.onrender.com |
 
 ---
 
